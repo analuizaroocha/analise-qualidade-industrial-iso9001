@@ -43,7 +43,10 @@ Conformidade ISO: Automação dos relatórios necessários para as auditorias de
 📸 Visualização do Dashboard
 
 <img width="1067" height="543" alt="image" src="https://github.com/user-attachments/assets/c77f6569-f028-426d-9dcd-98644a1d3bb4" />
-<img width="891" height="491" alt="image" src="https://github.com/user-attachments/assets/9eef23f5-645b-45a6-bccc-1c5e7e4d7370" />
+
+
+<img width="976" height="543" alt="image" src="https://github.com/user-attachments/assets/11976fdd-fad0-4244-9cf5-9c95c49de979" />
+
 
 
 
