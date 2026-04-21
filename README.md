@@ -5,42 +5,37 @@ Dashboard estratégico em Power BI para monitoramento de conformidade ISO 9001 e
 📊 Case: Dashboard de Gestão de Qualidade Industrial (ISO 9001:2015)
 
 📌 Visão Geral do Projeto
-Este projeto apresenta o desenvolvimento de um ecossistema de Business Intelligence focado no departamento de Qualidade de uma indústria. O objetivo central foi transformar o volume de reclamações de clientes em indicadores estratégicos (KPIs) para apoiar a manutenção da certificação ISO 9001:2015.
+Este projeto apresenta o desenvolvimento de uma solução de Business Intelligence para a CSI Filtros e Não Tecidos, focada no monitoramento estratégico de reclamações de clientes. O objetivo central foi transformar dados brutos em insights acionáveis para sustentar a melhoria contínua e a conformidade com a norma ISO 9001:2015.
 
-🛠️ Stack Tecnológica
+🛠️ Stack Tecnológica & Metodologia
 Ferramenta de BI: Microsoft Power BI
 
-Tratamento de Dados (ETL): Power Query (Linguagem M)
+Processamento de Dados (ETL): Power Query para limpeza, padronização e tratamento de inconsistências.
 
-Cálculos Estatísticos: Linguagem DAX
+Modelagem de Dados: Implementação de arquitetura Star Schema (Esquema Estrela) com tabelas fato e dimensões, garantindo performance e escalabilidade do modelo.
 
-Modelagem: Star Schema (Tabelas Fato e Dimensões)
+Linguagem DAX: Criação de medidas para análise estatística, incluindo cálculos de acumulados e inteligência de tempo.
 
-🏗️ Etapas do Desenvolvimento
-1. ETL e Tratamento de Dados
-Limpeza e padronização da base histórica de reclamações.
+📈 Análises Estratégicas Realizadas
+1. Diagnóstico de Distribuição (Origem)
+Mapeamento da concentração de reclamações por categoria.
 
-Tratamento de valores nulos e correção de tipagem de dados.
+Insight: Identificou-se que 50% das ocorrências são atribuídas diretamente a clientes, enquanto 36,11% estão relacionadas a fornecedores/matéria-prima.
 
-Criação de uma Tabela Calendário dinâmica para permitir análises temporais precisas (YoY, MoM).
+2. Análise de Priorização (Princípio de Pareto)
+Aplicação da regra 80/20 para isolar os "poucos vitais". Esta análise permitiu identificar os clientes e causas de maior impacto, direcionando os esforços e recursos para resolver a maior concentração de problemas com máxima eficiência.
 
-2. Modelagem de Dados
-Implementação de esquema estrela (Star Schema), garantindo performance e escalabilidade.
+3. Monitoramento de Tendência (Análise Temporal)
+Acompanhamento do volume de ocorrências ao longo dos anos para validar a eficácia das ações corretivas.
 
-Criação de tabelas dimensões para Clientes, Origens de Reclamação e Calendário, conectadas à tabela Fato de Ocorrências.
+Resultado: O painel comprova uma evolução positiva, atingindo o marco de apenas 3 registros no ano de 2024, evidenciando o sucesso das estratégias de qualidade.
 
-3. Análise com Foco em Negócio
-Gráfico de Pareto (Análise 80/20): Implementação via DAX para identificar os 20% de causas/clientes que geravam 80% dos problemas de qualidade.
+🚀 Diferenciais Técnicos do Modelo
+Tabela Calendário: Criação de dimensão temporal dedicada para filtros dinâmicos e comparativos anuais (YoY).
 
-Cálculo de Eficácia: Monitoramento da redução de reclamações pós-implementação de ações corretivas.
+Deployment & Escalabilidade: Arquitetura preparada para receber novos registros automaticamente e escalar para novos KPIs, como custo de reclamação e Lead Time de resolução.
 
-📈 Resultados Obtidos
-Redução Drástica de Reclamações: O dashboard demonstra visualmente a queda de ocorrências, atingindo apenas 3 registros no ano de 2024.
-
-Agilidade na Decisão: Redução do tempo de resposta do departamento de qualidade ao identificar rapidamente a origem (Canais) das reclamações mais frequentes.
-
-Conformidade ISO: Automação dos relatórios necessários para as auditorias de manutenção da ISO 9001.
-
+UX Design: Interface desenvolvida com foco na experiência do gestor, permitindo navegação fluida entre filtros de origem e períodos.
 📸 Visualização do Dashboard
 
 <img width="1067" height="543" alt="image" src="https://github.com/user-attachments/assets/c77f6569-f028-426d-9dcd-98644a1d3bb4" />
