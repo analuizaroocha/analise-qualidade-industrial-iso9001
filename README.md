@@ -46,7 +46,16 @@ Conformidade ISO: Automação dos relatórios necessários para as auditorias de
 <img width="1067" height="543" alt="image" src="https://github.com/user-attachments/assets/c77f6569-f028-426d-9dcd-98644a1d3bb4" />
 
 
+
+
+
+
 <img width="976" height="543" alt="image" src="https://github.com/user-attachments/assets/11976fdd-fad0-4244-9cf5-9c95c49de979" />
+
+
+
+
+
 
 
 
