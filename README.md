@@ -3,6 +3,7 @@ Dashboard estratégico em Power BI para monitoramento de conformidade ISO 9001 e
 
 
 📊 Case: Dashboard de Gestão de Qualidade Industrial (ISO 9001:2015)
+
 📌 Visão Geral do Projeto
 Este projeto apresenta o desenvolvimento de um ecossistema de Business Intelligence focado no departamento de Qualidade de uma indústria. O objetivo central foi transformar o volume de reclamações de clientes em indicadores estratégicos (KPIs) para apoiar a manutenção da certificação ISO 9001:2015.
 
