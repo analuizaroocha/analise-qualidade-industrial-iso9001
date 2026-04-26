@@ -38,7 +38,10 @@ Deployment & Escalabilidade: Arquitetura preparada para receber novos registros 
 UX Design: Interface desenvolvida com foco na experiência do gestor, permitindo navegação fluida entre filtros de origem e períodos.
 📸 Visualização do Dashboard
 
+
+
 <img width="1067" height="543" alt="image" src="https://github.com/user-attachments/assets/c77f6569-f028-426d-9dcd-98644a1d3bb4" />
+
 
 
 
