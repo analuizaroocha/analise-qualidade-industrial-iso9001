@@ -2,6 +2,9 @@
 Dashboard estratégico em Power BI para monitoramento de conformidade ISO 9001 e análise estatística de Pareto industrial.
 
 
+⚠️ Importante: Este projeto utiliza dados completamente fictícios (mock data), incluindo números, nomes de clientes e métricas. O objetivo é puramente educacional e de demonstração de capacidade técnica.
+
+
 📊 Case: Dashboard de Gestão de Qualidade Industrial (ISO 9001:2015)
 
 📌 Visão Geral do Projeto
@@ -58,5 +61,3 @@ UX Design: Interface desenvolvida com foco na experiência do gestor, permitindo
 
 
 
-⚠️ Nota de Confidencialidade
-Para respeitar o sigilo industrial, os dados utilizados foram anonimizados. Nomes de clientes e informações sensíveis foram alterados, preservando apenas a estrutura lógica e o design funcional do projeto.
